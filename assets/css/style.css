@@ -17,7 +17,7 @@ body {
 
 @media only screen and (max-width: 766px) {
     body {
-        margin: 5px;
+        /* margin: 5px; */
     }
 }
 a {
@@ -46,9 +46,9 @@ select.form-control {
 }
 @media only screen and (max-width: 766px) {
     .navbar-dark-custum {
-        border-top: 5px solid #A1170E;
+        /* border-top: 5px solid #A1170E;
         border-left: 5px solid #A1170E;
-        border-right: 5px solid #A1170E;
+        border-right: 5px solid #A1170E; */
     }
 }
 .navbar-brand-img {
