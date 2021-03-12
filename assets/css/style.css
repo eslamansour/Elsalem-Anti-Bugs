@@ -11,8 +11,8 @@
 body {
     direction: rtl;
     font-family: "cairo-regular";
-    background-color: #A1170E;
-    margin: 10px;
+    /* background-color: #A1170E; */
+    /* margin: 10px; */
 }
 
 @media only screen and (max-width: 766px) {
@@ -38,10 +38,10 @@ select.form-control {
 
 .navbar-dark-custum {
     background-color: #ffffff;
-    padding: 0px 90px;
-    border-top: 10px solid #A1170E;
+    padding: 0px 30px;
+    /* border-top: 10px solid #A1170E;
     border-left: 10px solid #A1170E;
-    border-right: 10px solid #A1170E;
+    border-right: 10px solid #A1170E; */
     transition: all 0.1s !important;
 }
 @media only screen and (max-width: 766px) {
